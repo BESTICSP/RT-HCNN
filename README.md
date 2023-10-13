@@ -69,11 +69,12 @@ Table 2 .Comparison of Prediction Process Time: Prior FHE-based privacy-preservi
 
 MIT license
 
+
+
 Programmer: Hehe Gao
 
 Email: ghh986@163.com  zjy@besti.edu.cn
 
-Cite:
 Li, Xiaodong, Hehe Gao, Jianyi Zhang, Shuya Yang, Xin Jin, and Kim-Kwang Raymond Choo. "GPU Accelerated Full Homomorphic Encryption Cryptosystem, Library and Applications for IoT Systems." IEEE Internet of Things Journal (2023).
 
 北京电子科技学院CSP实验室
